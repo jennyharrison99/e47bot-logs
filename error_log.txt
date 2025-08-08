@@ -1,1 +1,3 @@
 [TEST] Manually created error log on 2025-08-07
+[BOOT ERROR] No module named 'config'
+[BOOT ERROR] No module named 'config'
